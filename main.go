@@ -1,10 +1,10 @@
 package main
 
 import (
-	"game/tetris"
 	"log"
 
 	"github.com/hajimehoshi/ebiten"
+	"github.com/godfery/tetris-go/tetris"
 	"github.com/pkg/profile"
 )
 

@@ -17,10 +17,10 @@
 package main
 
 import (
-	"game/aaa"
 	"log"
 
 	"github.com/hajimehoshi/ebiten"
+	"github.com/godfery/tetris-go/aaa"
 )
 
 var (

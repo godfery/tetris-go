@@ -8,9 +8,8 @@ import (
 	"sort"
 	"strconv"
 
-	"game/common"
-
 	"github.com/hajimehoshi/ebiten"
+	"github.com/godfery/tetris-go/common"
 )
 
 // TileData represents a tile information like a value and a position.

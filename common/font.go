@@ -6,9 +6,8 @@ import (
 	"image/draw"
 	"math"
 
-	"game/common/internal/assets"
-
 	"github.com/hajimehoshi/ebiten"
+	"github.com/godfery/tetris-go/common/internal/assets"
 )
 
 var (
